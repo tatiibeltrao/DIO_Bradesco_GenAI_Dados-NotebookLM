@@ -1,4 +1,4 @@
-# DIO_Bradesco_GenAI_Dados-NotebookLM
+# DIO / Bradesco - Bootcamp GenAI & Dados - Desafio 01
 
 ## Contexto e Objetivos
 
